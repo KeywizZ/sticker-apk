@@ -1,0 +1,357 @@
+﻿{
+    "source":  "stickergoblin",
+    "sheets":  [
+                   {
+                       "id":  "sheet_1",
+                       "name":  "Sheet 1",
+                       "sheetNumber":  1,
+                       "assetPath":  "stickers/sheets/sheet_1.png",
+                       "stickerIds":  [
+                                          "sticker_1",
+                                          "sticker_2",
+                                          "sticker_3"
+                                      ]
+                   },
+                   {
+                       "id":  "sheet_2",
+                       "name":  "Sheet 5",
+                       "sheetNumber":  5,
+                       "assetPath":  "stickers/sheets/sheet_2.png",
+                       "stickerIds":  [
+                                          "sticker_4",
+                                          "sticker_5",
+                                          "sticker_6"
+                                      ]
+                   },
+                   {
+                       "id":  "sheet_3",
+                       "name":  "Sheet 12",
+                       "sheetNumber":  12,
+                       "assetPath":  "stickers/sheets/sheet_3.png",
+                       "stickerIds":  [
+                                          "sticker_7",
+                                          "sticker_8",
+                                          "sticker_9"
+                                      ]
+                   },
+                   {
+                       "id":  "sheet_4",
+                       "name":  "Sheet 13",
+                       "sheetNumber":  13,
+                       "assetPath":  "stickers/sheets/sheet_4.png",
+                       "stickerIds":  [
+                                          "sticker_10",
+                                          "sticker_11",
+                                          "sticker_12"
+                                      ]
+                   },
+                   {
+                       "id":  "sheet_5",
+                       "name":  "Sheet 18",
+                       "sheetNumber":  18,
+                       "assetPath":  "stickers/sheets/sheet_5.png",
+                       "stickerIds":  [
+                                          "sticker_13",
+                                          "sticker_14",
+                                          "sticker_15"
+                                      ]
+                   },
+                   {
+                       "id":  "sheet_6",
+                       "name":  "Sheet 23",
+                       "sheetNumber":  23,
+                       "assetPath":  "stickers/sheets/sheet_6.png",
+                       "stickerIds":  [
+                                          "sticker_16",
+                                          "sticker_17",
+                                          "sticker_18"
+                                      ]
+                   },
+                   {
+                       "id":  "sheet_7",
+                       "name":  "Sheet 30",
+                       "sheetNumber":  30,
+                       "assetPath":  "stickers/sheets/sheet_7.png",
+                       "stickerIds":  [
+                                          "sticker_19",
+                                          "sticker_20",
+                                          "sticker_21"
+                                      ]
+                   },
+                   {
+                       "id":  "sheet_8",
+                       "name":  "Sheet 36",
+                       "sheetNumber":  36,
+                       "assetPath":  "stickers/sheets/sheet_8.png",
+                       "stickerIds":  [
+                                          "sticker_22",
+                                          "sticker_23",
+                                          "sticker_24"
+                                      ]
+                   },
+                   {
+                       "id":  "sheet_9",
+                       "name":  "Sheet 45",
+                       "sheetNumber":  45,
+                       "assetPath":  "stickers/sheets/sheet_9.png",
+                       "stickerIds":  [
+                                          "sticker_25",
+                                          "sticker_26",
+                                          "sticker_27"
+                                      ]
+                   },
+                   {
+                       "id":  "sheet_10",
+                       "name":  "Sheet 14",
+                       "sheetNumber":  14,
+                       "assetPath":  "stickers/sheets/sheet_10.png",
+                       "stickerIds":  [
+                                          "sticker_28",
+                                          "sticker_29",
+                                          "sticker_30"
+                                      ]
+                   }
+               ],
+    "stickers":  [
+                     {
+                         "id":  "sticker_1",
+                         "name":  "Eldrazi",
+                         "sheetId":  "sheet_1",
+                         "assetPath":  "",
+                         "accentHue":  37,
+                         "vowels":  3
+                     },
+                     {
+                         "id":  "sticker_2",
+                         "name":  "Guacamole",
+                         "sheetId":  "sheet_1",
+                         "assetPath":  "",
+                         "accentHue":  74,
+                         "vowels":  4
+                     },
+                     {
+                         "id":  "sticker_3",
+                         "name":  "Tightrope",
+                         "sheetId":  "sheet_1",
+                         "assetPath":  "",
+                         "accentHue":  111,
+                         "vowels":  3
+                     },
+                     {
+                         "id":  "sticker_4",
+                         "name":  "Misunderstood",
+                         "sheetId":  "sheet_2",
+                         "assetPath":  "",
+                         "accentHue":  148,
+                         "vowels":  4
+                     },
+                     {
+                         "id":  "sticker_5",
+                         "name":  "Trapeze",
+                         "sheetId":  "sheet_2",
+                         "assetPath":  "",
+                         "accentHue":  185,
+                         "vowels":  2
+                     },
+                     {
+                         "id":  "sticker_6",
+                         "name":  "Elf",
+                         "sheetId":  "sheet_2",
+                         "assetPath":  "",
+                         "accentHue":  222,
+                         "vowels":  1
+                     },
+                     {
+                         "id":  "sticker_7",
+                         "name":  "Narrow-Minded",
+                         "sheetId":  "sheet_3",
+                         "assetPath":  "",
+                         "accentHue":  259,
+                         "vowels":  4
+                     },
+                     {
+                         "id":  "sticker_8",
+                         "name":  "Baloney",
+                         "sheetId":  "sheet_3",
+                         "assetPath":  "",
+                         "accentHue":  296,
+                         "vowels":  4
+                     },
+                     {
+                         "id":  "sticker_9",
+                         "name":  "Fireworks",
+                         "sheetId":  "sheet_3",
+                         "assetPath":  "",
+                         "accentHue":  333,
+                         "vowels":  3
+                     },
+                     {
+                         "id":  "sticker_10",
+                         "name":  "Unsanctioned",
+                         "sheetId":  "sheet_4",
+                         "assetPath":  "",
+                         "accentHue":  10,
+                         "vowels":  5
+                     },
+                     {
+                         "id":  "sticker_11",
+                         "name":  "Ancient",
+                         "sheetId":  "sheet_4",
+                         "assetPath":  "",
+                         "accentHue":  47,
+                         "vowels":  3
+                     },
+                     {
+                         "id":  "sticker_12",
+                         "name":  "Juggler",
+                         "sheetId":  "sheet_4",
+                         "assetPath":  "",
+                         "accentHue":  84,
+                         "vowels":  2
+                     },
+                     {
+                         "id":  "sticker_13",
+                         "name":  "Phyrexian",
+                         "sheetId":  "sheet_5",
+                         "assetPath":  "",
+                         "accentHue":  121,
+                         "vowels":  4
+                     },
+                     {
+                         "id":  "sticker_14",
+                         "name":  "Midway",
+                         "sheetId":  "sheet_5",
+                         "assetPath":  "",
+                         "accentHue":  158,
+                         "vowels":  3
+                     },
+                     {
+                         "id":  "sticker_15",
+                         "name":  "Bamboozle",
+                         "sheetId":  "sheet_5",
+                         "assetPath":  "",
+                         "accentHue":  195,
+                         "vowels":  3
+                     },
+                     {
+                         "id":  "sticker_16",
+                         "name":  "Ancestral",
+                         "sheetId":  "sheet_6",
+                         "assetPath":  "",
+                         "accentHue":  232,
+                         "vowels":  2
+                     },
+                     {
+                         "id":  "sticker_17",
+                         "name":  "Hot Dog",
+                         "sheetId":  "sheet_6",
+                         "assetPath":  "",
+                         "accentHue":  269,
+                         "vowels":  1
+                     },
+                     {
+                         "id":  "sticker_18",
+                         "name":  "Minotaur",
+                         "sheetId":  "sheet_6",
+                         "assetPath":  "",
+                         "accentHue":  306,
+                         "vowels":  4
+                     },
+                     {
+                         "id":  "sticker_19",
+                         "name":  "Playable",
+                         "sheetId":  "sheet_7",
+                         "assetPath":  "",
+                         "accentHue":  343,
+                         "vowels":  2
+                     },
+                     {
+                         "id":  "sticker_20",
+                         "name":  "Delusionary",
+                         "sheetId":  "sheet_7",
+                         "assetPath":  "",
+                         "accentHue":  20,
+                         "vowels":  6
+                     },
+                     {
+                         "id":  "sticker_21",
+                         "name":  "Hydra",
+                         "sheetId":  "sheet_7",
+                         "assetPath":  "",
+                         "accentHue":  57,
+                         "vowels":  2
+                     },
+                     {
+                         "id":  "sticker_22",
+                         "name":  "Unassuming",
+                         "sheetId":  "sheet_8",
+                         "assetPath":  "",
+                         "accentHue":  94,
+                         "vowels":  3
+                     },
+                     {
+                         "id":  "sticker_23",
+                         "name":  "Gelatinous",
+                         "sheetId":  "sheet_8",
+                         "assetPath":  "",
+                         "accentHue":  131,
+                         "vowels":  5
+                     },
+                     {
+                         "id":  "sticker_24",
+                         "name":  "Serpent",
+                         "sheetId":  "sheet_8",
+                         "assetPath":  "",
+                         "accentHue":  168,
+                         "vowels":  1
+                     },
+                     {
+                         "id":  "sticker_25",
+                         "name":  "Unglued",
+                         "sheetId":  "sheet_9",
+                         "assetPath":  "",
+                         "accentHue":  205,
+                         "vowels":  2
+                     },
+                     {
+                         "id":  "sticker_26",
+                         "name":  "Pea-Brained",
+                         "sheetId":  "sheet_9",
+                         "assetPath":  "",
+                         "accentHue":  242,
+                         "vowels":  3
+                     },
+                     {
+                         "id":  "sticker_27",
+                         "name":  "Dinosaur",
+                         "sheetId":  "sheet_9",
+                         "assetPath":  "",
+                         "accentHue":  279,
+                         "vowels":  4
+                     },
+                     {
+                         "id":  "sticker_28",
+                         "name":  "Deep-fried",
+                         "sheetId":  "sheet_10",
+                         "assetPath":  "",
+                         "accentHue":  316,
+                         "vowels":  2
+                     },
+                     {
+                         "id":  "sticker_29",
+                         "name":  "Plague",
+                         "sheetId":  "sheet_10",
+                         "assetPath":  "",
+                         "accentHue":  353,
+                         "vowels":  3
+                     },
+                     {
+                         "id":  "sticker_30",
+                         "name":  "Myr",
+                         "sheetId":  "sheet_10",
+                         "assetPath":  "",
+                         "accentHue":  30,
+                         "vowels":  1
+                     }
+                 ]
+}
